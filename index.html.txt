@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BADDIE OFFICIAL SHOP</title>
+<style>
+body {
+  margin: 0;
+  background: #10070d;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+header {
+  padding: 35px 15px;
+  background: linear-gradient(135deg,#4b1232,#d71950);
+}
+h1 { letter-spacing: 3px; }
+main { padding: 30px 20px; }
+.box {
+  background: #24101e;
+  border: 1px solid #ff4fa3;
+  border-radius: 15px;
+  padding: 25px;
+  margin-top: 25px;
+}
+button {
+  background: linear-gradient(90deg,#ff4fa3,#d71950);
+  color: white;
+  border: 0;
+  border-radius: 10px;
+  padding: 14px 25px;
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>BADDIE</h1>
+<p>OFFICIAL SHOP</p>
+</header>
+<main>
+<h2>Bienvenue chez BADDIE ❤️</h2>
+<div class="box">
+<h3>Notre boutique</h3>
+<p>Découvre nos produits et nos cartes cadeaux.</p>
+<button onclick="alert('Boutique en préparation ❤️')">
+Découvrir
+</button>
+</div>
+</main>
+</body>
+</html>
+
